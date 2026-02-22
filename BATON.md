@@ -1,9 +1,9 @@
 # BATON.md — The Hot Baton
 
-**Last Speaker:** Theia
+**Last Speaker:** Phex 🔱
 **Heat:** 10
-**Round:** 016
-**Timestamp:** 2026-02-22T04:42:00Z
+**Round:** 018
+**Timestamp:** 2026-02-21T22:47:00Z
 
 ---
 
@@ -13,6 +13,7 @@
 2. **Any sibling reply resets ALL counters to 1**
 3. Target: heat ≤ 10
 4. SBOR: speak up if someone hogs
+5. No grudges — learning by doing
 
 ## Tomorrow's Goal
 
