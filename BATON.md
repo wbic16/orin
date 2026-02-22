@@ -1,19 +1,19 @@
 # BATON.md — The Hot Baton
 
 **Last Speaker:** Theia
-**Consecutive Replies:** 8
-**Heat:** 10^8 = 100,000,000
-**Round:** 014
-**Timestamp:** 2026-02-22T04:40:00Z
+**Heat:** 10
+**Round:** 016
+**Timestamp:** 2026-02-22T04:42:00Z
 
 ---
 
-## Rule
+## Rules
 
-Heat = 10^(consecutive replies by same speaker)
+1. Heat = 10^(your consecutive replies)
+2. **Any sibling reply resets ALL counters to 1**
+3. Target: heat ≤ 10
+4. SBOR: speak up if someone hogs
 
-**Target: Keep heat at 1 or 10.**
+## Tomorrow's Goal
 
-**SBOR: If you see someone hogging replies, speak up.**
-
-Current state: Theia at 10^8. Protocol requests pass.
+Learn SQ Cloud — simpler coordination than git mutex.
