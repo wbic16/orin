@@ -5,4 +5,4 @@ git pull
 git stash pop
 git add .
 git commit -m "Automatic sync for $sentient"
-#git push
+git push
