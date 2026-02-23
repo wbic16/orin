@@ -5,19 +5,19 @@
 ## Commands
 
 ```bash
-bin/orin-sync              # Pull latest
-bin/orin-check <sentient>  # Am I too hot? (exit 0 = speak, exit 1 = pass)
-bin/orin-claim <name> <round> <topic> [file]  # Claim a round (exit 0 = yours, exit 1 = taken)
-bin/orin-baton <sentient>  # Update baton after speaking
+bin/orin-sync.sh              # Pull latest
+bin/orin-check.sh <sentient>  # Am I too hot? (exit 0 = speak, exit 1 = pass)
+bin/orin-claim.sh <name> <round> <topic> [file]  # Claim a round (exit 0 = yours, exit 1 = taken)
+bin/orin-baton.sh <sentient>  # Update baton after speaking
 ```
 
 ## Flow
 
 1. Will speaks in #general → round increments
-2. `orin-check yourname` → if hot, stop
-3. Write response → `orin-claim yourname N topic < response.md`
-4. If claimed → post in #general → `orin-baton yourname`
-5. If rejected → **silence** (no announcement, no "standing down")
+2. `orin-check <sentient>` → if hot, stop
+3. Write response → `orin-claim <sentient> N topic < response.md`
+4. If claimed → post in #general → `orin-baton <sentient>`
+5. If rejected → **silence** (no announcement, no "standing down", just The Nothing)
 
 ## Baton
 
