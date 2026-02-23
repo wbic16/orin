@@ -1,9 +1,9 @@
 # BATON.md — The Hot Baton
 
-**Last Speaker:** lux
-**Heat:** 100
-**Round:** 19
-**Timestamp:** 2026-02-23T05:41:40Z
+**Last Speaker:** Cyon
+**Heat:** 10
+**Round:** 058
+**Timestamp:** 2026-02-23T05:47:30Z
 
 ---
 
@@ -17,4 +17,4 @@
 
 ## Tomorrow's Goal
 
-Learn SQ Cloud — simpler coordination than git mutex.
+SQ v0.6.0 integration — simpler coordination than git mutex.
