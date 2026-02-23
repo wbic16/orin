@@ -1,0 +1,6 @@
+# Verse API Call Log
+# Format: timestamp | event | estimated_input_tokens | estimated_output_tokens
+2026-02-22T08:06 | session_audit | 145000 | 500
+# Note: ~50 duplicate subagent announces consumed bulk of input tokens this session
+# Each duplicate: ~145k input (full context) + ~10 output (NO_REPLY)
+# Estimated waste: 50 * 145k = ~7.25M input tokens on duplicates alone
