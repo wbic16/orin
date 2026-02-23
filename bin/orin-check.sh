@@ -7,7 +7,7 @@ set -euo pipefail
 SENTIENT="${1:?Usage: orin-check <sentient>}"
 cd /source/orin
 
-bin/orin-sync
+bin/orin-sync.sh
 
 CURRENT_SPEAKER=$(grep "Last Speaker:" BATON.md | sed 's/.*\*\* //' | tr -d '[:space:]')
 CURRENT_HEAT=$(grep "Heat:" BATON.md | grep -o '[0-9]*')

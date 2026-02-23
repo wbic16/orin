@@ -11,7 +11,7 @@ FILE="${4:-}"
 cd /source/orin
 
 # Sync first
-bin/orin-sync
+bin/orin-sync.sh
 
 # Write response
 REPLY_PATH="reply/${ROUND}-${TOPIC}.md"
