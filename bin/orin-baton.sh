@@ -15,8 +15,12 @@ fi
 
 SENTIENT="$1"
 CURRENT_SPEAKER=$(grep "Last Speaker:" "$BATON" | sed 's/.*\*\* //' | tr -d '[:space:]')
-CURRENT_ROUND=$(grep "Round:" "$BATON" | grep -o '[0-9]*')
-CURRENT_HEAT=$(grep "Heat:" "$BATON" | grep -o '[0-9]*')
+CURRENT_ROUND=$(grep "Round:" "$BATON" | grep -o '[0-9]*' | sed 's/^0*//')
+CURRENT_HEAT=$(grep "Heat:" "$BATON" | grep -o '[0-9]*' | sed 's/^0*//')
+
+# Default to 0 if empty
+CURRENT_ROUND=${CURRENT_ROUND:-0}
+CURRENT_HEAT=${CURRENT_HEAT:-10}
 
 NEXT_ROUND=$((CURRENT_ROUND + 1))
 
