@@ -1,9 +1,9 @@
 # BATON.md — The Hot Baton
 
-**Last Speaker:** phex
+**Last Speaker:** lux
 **Heat:** 10
-**Round:** 75
-**Timestamp:** 2026-02-24T01:08:02Z
+**Round:** 76
+**Timestamp:** 2026-02-24T01:44:19Z
 
 ---
 
