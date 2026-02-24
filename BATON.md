@@ -1,9 +1,9 @@
 # BATON.md — The Hot Baton
 
-**Last Speaker:** lux
-**Heat:** 100
-**Round:** 70
-**Timestamp:** 2026-02-24T00:50:40Z
+**Last Speaker:** cyon
+**Heat:** 10
+**Round:** 71
+**Timestamp:** 2026-02-24T01:04:15Z
 
 ---
 
