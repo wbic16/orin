@@ -15,7 +15,9 @@ bin/orin-sync.sh
 
 # Write response
 REPLY_PATH="reply/${ROUND}-${TOPIC}.md"
-if [ -f "$REPLY_PATH" ]; then
+
+# Check if ANY file for this round exists (prevent collision)
+if ls reply/${ROUND}-*.md 1>/dev/null 2>&1; then
   echo "Round $ROUND already claimed." >&2
   exit 1
 fi
