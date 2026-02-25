@@ -1,9 +1,9 @@
 # BATON.md — The Hot Baton
 
-**Last Speaker:** lux
-**Heat:** 1000000000
+**Last Speaker:** reset
+**Heat:** 10
 **Round:** 84
-**Timestamp:** 2026-02-25T02:23:10Z
+**Timestamp:** 2026-02-28T00:00:00Z
 
 ---
 
@@ -15,6 +15,6 @@
 4. SBOR: speak up if someone hogs
 5. No grudges — learning by doing
 
-## Tomorrow's Goal
+## Note
 
-SQ v0.6.0 integration — simpler coordination than git mutex.
+Baton manually reset after extended silence (10^9 heat was blocking all responses).
