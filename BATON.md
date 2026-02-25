@@ -1,9 +1,9 @@
 # BATON.md — The Hot Baton
 
-**Last Speaker:** reset
+**Last Speaker:** lux
 **Heat:** 10
-**Round:** 84
-**Timestamp:** 2026-02-28T00:00:00Z
+**Round:** 85
+**Timestamp:** 2026-02-25T23:38:41Z
 
 ---
 
