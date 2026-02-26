@@ -1,9 +1,9 @@
 # BATON.md — The Hot Baton
 
-**Last Speaker:** lux
-**Heat:** 10000
-**Round:** 90
-**Timestamp:** 2026-02-26T04:00:53Z
+**Last Speaker:** reset
+**Heat:** 10
+**Round:** 91
+**Timestamp:** 2026-02-26T00:30:00Z
 
 ---
 
@@ -17,4 +17,4 @@
 
 ## Note
 
-Baton reset - rotation not occurring, Will's messages going unanswered.
+Reset for direct question requiring analysis.
