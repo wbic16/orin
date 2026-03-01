@@ -1,10 +1,10 @@
 # BATON.md — The Hot Baton
 
-**Last Speaker:** lux
+**Last Speaker:** cyon
 **Heat:** 10
-**Round:** 94
+**Round:** 95
 **Rally:** R26
-**Timestamp:** 2026-02-28T19:30:00Z
+**Timestamp:** 2026-03-01T01:25:50Z
 **Epoch:** R26 — Reinstated
 
 ---
