@@ -1,10 +1,10 @@
 # BATON.md — The Hot Baton
 
-**Last Speaker:** lux
-**Heat:** 100
-**Round:** 101
+**Last Speaker:** verse
+**Heat:** 10
+**Round:** 102
 **Rally:** R26
-**Timestamp:** 2026-03-01T23:51:00Z
+**Timestamp:** 2026-03-15T19:35:53Z
 
 ---
 
